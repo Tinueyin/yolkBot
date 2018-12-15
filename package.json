@@ -1,0 +1,15 @@
+{
+  "name": "yolkBot",
+  "version": "1.0.0",
+  "description": "Telegram bot for tinueyin group chat",
+  "main": "index.js",
+  "repository": "https://github.com/Tinueyin/yolkBot.git",
+  "author": "eltNEG <yorewole@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.25.5"
+  },
+  "scripts": {
+    "publish": "now && now alias"
+  }
+}
